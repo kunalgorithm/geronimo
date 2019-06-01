@@ -1,0 +1,6 @@
+{
+  "name": "geronimo",
+  "dependencies": {
+    "@zeit/integration-utils": "latest"
+  }
+}
